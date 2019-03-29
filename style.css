@@ -1,0 +1,48 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+
+body {
+  background-color: #0B0A0B;
+  font-family: "Open Sans", sans-serif;
+  font-size: 21px;
+  margin: 0;
+  color: #ffffff;
+}
+header{
+  background-color: gray;
+  text-align: center;
+  padding: 10px;
+  font-family: "satisfy", sans-serif;
+}
+
+a{
+  color: white;
+  padding: 10px;
+  font-family: "satisfy", serif;
+}
+h1 {
+  font-family: "satisfy", serif;
+  font-size: 34
+    px;
+}
+section{
+  text-align: center;
+  padding: 30px;
+  color: white;
+    
+}
+button{
+  color: 0B0A0B;
+  font-size: 20px;
+  font: "satisfy", serif;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+textarea{
+  display: block;
+  margin: 10px auto;
+}
